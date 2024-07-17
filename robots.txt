@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lecateame.github.io/sitemap
+Sitemap: https://lecateame.github.io/app/sitemap
+Sitemap: https://lecateame.github.io/assets/sitemap
+Sitemap: https://lecateame.github.io/css/sitemap
+Sitemap: https://lecateame.github.io/includes/sitemap
+Sitemap: https://lecateame.github.io/item/sitemap
+Sitemap: https://lecateame.github.io/src/sitemap
